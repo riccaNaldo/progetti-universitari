@@ -1,0 +1,16 @@
+*.o
+*.d
+*.elf
+*.out
+*.i
+*.map
+*.s
+.cache/
+.clangd/
+*.txt
+App/compile_commands.json
+generated_aperiodic_tasks.c
+generated_periodic_tasks.c
+App/user_interface/tests
+App/test_results/
+FreeRTOS/

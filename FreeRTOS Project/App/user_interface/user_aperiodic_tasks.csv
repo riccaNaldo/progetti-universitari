@@ -1,0 +1,3 @@
+# Name, Activation Time, Relative Deadline, WCET, Policy
+AP1,0,5,15,KILL
+AP2,0,300,5,OVERRUN

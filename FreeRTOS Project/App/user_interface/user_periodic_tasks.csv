@@ -1,0 +1,4 @@
+# Name, Period, Deadline, Priority, Stack, WCET, Policy, Phase
+T1,20,20,6,256,4,NONE,0
+T2,20,20,5,256,4,NONE,0
+T3,40,40,4,256,4,NONE,0
